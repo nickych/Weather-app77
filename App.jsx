@@ -17,7 +17,7 @@ function App () {
         <div className="lpic">
             <img className="inj" src={sus} alt="" />
             <p className=" status">STATUS</p>
-            <h1 className="number">22°c</h1>
+            <h1 className="number">24°c</h1>
             <h2 className="jax">London</h2>
 
           </div>
