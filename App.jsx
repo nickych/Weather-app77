@@ -11,7 +11,6 @@ function App () {
           <input type="text" placeholder="Enter CIty Name" />
           <button><img className="im" src={imgg} alt="" /></button>
           
-          
 
         </div>
         <div className="lpic">
